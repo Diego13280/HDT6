@@ -8,7 +8,9 @@ package proyecto;
 
 /**
  *
- * @author Esteban
+ * Esteban Barrera  13413
+ * Daniel Mejia     13271
+ * Diego Juarez     13280
  */
 
 import java.util.HashSet;
@@ -16,7 +18,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet; 
 
-public class Factory 
+public class Factory<E>
 {
     //clase factory, para elelegir las implimentaciones a usar
     public Set<E> getImplementacion(String tipo)
