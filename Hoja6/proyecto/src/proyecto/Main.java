@@ -1,16 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package proyecto;
-
-/**
- *
- * @author Esteban
- */
-public class Main {
 
 	// realzamos otra pregunta para saber si el programador pertenece al conjunto de JAVA
 			System.out.println ("El(La) programador(a) " + nombreUsuario + " Desarrolla Aplicaciones JAVA ? (SI,NO)");
